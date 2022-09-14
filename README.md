@@ -1,5 +1,4 @@
 ***
-# Prime Gap
 ## 2-tuple
 ### 6. Polignac's Conjecture
 All elements in the set of even numbers {2, 4, 6, ...} can be expressed as difference of infinitely many consecutive primes. In other words, there exist infinitely many 2-tuple $(0,k)$ where $k$ takes all even numbers.

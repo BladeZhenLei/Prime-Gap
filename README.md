@@ -1,6 +1,6 @@
 ***
 ## 2-tuple
-### 6. Polignac's Conjecture
+### 1. Polignac's Conjecture
 All elements in the set of even numbers {2, 4, 6, ...} can be expressed as difference of infinitely many consecutive primes. In other words, there exist infinitely many 2-tuple $(0,k)$ where $k$ takes all even numbers.
 <p/>
 <strong> Comment </strong>
@@ -8,7 +8,7 @@ All elements in the set of even numbers {2, 4, 6, ...} can be expressed as diffe
 None.  
 <p/>
   
-### 7. (sub-problem) Twin Prime Conjecture
+### 2. Twin Prime Conjecture (sub-problem of 1)
 The unique adimissible 2-tuple $(0,2)$ as difference of primes are infinitely many, in other words, there exist infinitely many consectutive two primes in the pattern $(p, p+2)$. 
 <p/>
 <strong> Comment </strong>
